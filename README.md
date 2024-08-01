@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## General info
-This project was created by our group in the Smart India Hackathon 2023.It is fitness activities tracker app.
+This project was created in the Smart India Hackathon 2023.It is fitness activities tracker app.
 It tracks steps and other activities by implementing HAR (Human Activity Recognition).I ***contributed to the backend of the app***.
 My contributions included:
 - ***Creating Auth*** for Users using **Firebase**, it included - ***Signup, Login and Email verification***.
